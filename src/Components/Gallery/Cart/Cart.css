@@ -1,0 +1,11 @@
+.carts{
+    background-image: linear-gradient(rgb(228, 222, 225), rgb(158, 167, 245));
+   margin: 5px;
+   border: 5px;
+   padding: 40px;
+   margin: 20px;
+}
+
+.hi{
+    margin-top: 10px;
+}
